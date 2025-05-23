@@ -1,0 +1,290 @@
+commit ce89454877ca4faa0609bcb6a491d1472d15a839
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Fri May 23 11:16:04 2025 +0200
+
+    clean up
+
+commit 629d26f5323597bec0c6ce449081238f40f21640
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Fri May 23 11:05:58 2025 +0200
+
+    add correlations
+
+commit 32aed897388b0b847431777d44029a92475149c3
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Thu May 22 17:22:36 2025 +0200
+
+    ready for review
+
+commit e9beb39bae3c2f0503863639fbafcceaafb0e1b6
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Tue May 20 16:36:44 2025 +0200
+
+    color interpolate
+
+commit 8c08d7b071503de61ca8fe3531c4db05df193e3b
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Tue May 20 15:19:03 2025 +0200
+
+    rework interactive map
+
+commit c5c469edce984eb1d1d71e9e8e97c3175048630f
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Mon May 19 16:22:44 2025 +0200
+
+    add all point analysis
+
+commit d69119d54b0b70ad7897155a9f2856ef09f29701
+Merge: 9c792f6 a4fcfff
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Mon May 19 13:15:16 2025 +0200
+
+    Merge branch 'main' of https://github.com/Grumlebob/ExamGDS
+
+commit 9c792f606abf61d3336565b8afa61fa7ab80a2c4
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Mon May 19 13:15:06 2025 +0200
+
+    add moran and fix mathcing
+
+commit a4fcfff1f80cb98f4f9e2431ffc17c3d41fb94ac
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Thu May 15 16:02:40 2025 +0200
+
+    fix ripley alphabet??
+
+commit 167da5f0a0563678d0e5174bf9dadc46e4c7eabf
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Thu May 15 14:51:26 2025 +0200
+
+    consistent use of crs and add population density
+
+commit 098faa66eeeac50cdff6e1f64c91df556078ee2e
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Thu May 15 11:04:31 2025 +0200
+
+    add hopkins h and clusters
+
+commit 64615b12c99b3f4cac50ff13597710abedaeb00f
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Wed May 14 17:18:47 2025 +0200
+
+    own ripley alphabet working -- ish
+
+commit 0de4bf5d4b96e50813e665f56aa815e3593e6a95
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Wed May 14 09:55:35 2025 +0200
+
+    move imports top top
+
+commit f40fb4ef26c0bd741752a321f5d7c0104bbc1aeb
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Tue May 13 16:33:51 2025 +0200
+
+    cleared outputs
+
+commit 3e51e7ce6c1668c304489772ca9ad838ba8fd4c7
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Tue May 13 16:08:58 2025 +0200
+
+    consistent epsg and working 3 methods
+
+commit e1a39146bd2a4146fd9a24434a10f90ea32d69e7
+Author: tcla <tcla@itu.dk>
+Date:   Tue May 13 15:17:16 2025 +0200
+
+    use nta_gdf instead of ntas
+
+commit e9640b6adf9fb265d2224a94dfcbdd0d94b934db
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Tue May 13 14:45:09 2025 +0200
+
+    merge 3 methods
+
+commit 6d66636214ceb2d55c4d6692fb6dbb58f80dff99
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Tue May 13 09:53:05 2025 +0200
+
+    remove thor file
+
+commit dd6b593963dbc16a94c91990765bf9959a1739ff
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Tue May 13 09:52:42 2025 +0200
+
+    add merge script to main file
+
+commit be308f7fb152f84629a25b084c3719df7d49ecb7
+Author: tcla <tcla@itu.dk>
+Date:   Fri May 9 19:06:00 2025 +0200
+
+    some 0 populations fixed
+
+commit 0ec58c58a472c8b684b2578f4ce52d8af2bdc97f
+Author: tcla <tcla@itu.dk>
+Date:   Fri May 9 12:23:34 2025 +0200
+
+    all polygons have population but some dont plot
+
+commit 9b168ea85a2f3a06a4adf862c7e2851886d3f72b
+Author: Joakim Goyle Dissing <joakim@septima.dk>
+Date:   Thu May 8 15:17:02 2025 +0200
+
+    Added excel example file
+
+commit 70240911d799e5917210263946d5def385f5b11e
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Thu May 8 13:13:52 2025 +0200
+
+    removal of boroughs
+
+commit 5638c517617c86027e5b64bc85037e95367aca9d
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Thu May 8 13:01:19 2025 +0200
+
+    almost done cleaning
+
+commit 25875bf8d3b1e7cd37d3449c196e05c7175d8f54
+Merge: ec44cd1 b38c166
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Thu May 8 11:03:57 2025 +0200
+
+    Merge branch 'main' of https://github.com/Grumlebob/ExamGDS
+
+commit ec44cd13451ea75bb44dfb046bf01ec7df8004ed
+Author: grumlebob <grumlebob@gmail.com>
+Date:   Thu May 8 11:03:56 2025 +0200
+
+    merge
+
+commit b38c166964fdb33e415429f42372dca67d1b7594
+Author: tcla <tcla@itu.dk>
+Date:   Thu May 8 10:59:37 2025 +0200
+
+    clean using keywords
+
+commit aa942b094106e16554c29de578f279ec0bb173aa
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Mon May 5 16:20:05 2025 +0200
+
+    a lot more matching
+
+commit 291231ed67d0cdd94d2a8b60439d952c8b3f9dee
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Mon May 5 16:12:16 2025 +0200
+
+    latest
+
+commit 23f49f225352a901620095c25762f1f0b2a485dd
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Mon May 5 14:24:28 2025 +0200
+
+    matching
+
+commit e350bc98417c397d45b6d3761402f53483dbf151
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Mon May 5 13:19:01 2025 +0200
+
+    folium
+
+commit 01d56449c20392fe7a1a6dcc90e2dfa2ce265365
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu May 1 14:01:36 2025 +0200
+
+    remove demo
+
+commit b8c8e8d26d6d3685120b666be788f6d3b7be76a9
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu May 1 14:01:13 2025 +0200
+
+    cleanup imports and data loading
+
+commit d8fd3ffed45c8090d2b283f732dffcc0f4a9997c
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu May 1 13:42:53 2025 +0200
+
+    the big merge
+
+commit 55fca10ba360003bacf45d018e7af848eccc0bb1
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu May 1 12:52:04 2025 +0200
+
+    latest
+
+commit 14fd92909a3ca942a6a74b45f36f551afc913dea
+Merge: d0fc10b f70475c
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu May 1 12:46:04 2025 +0200
+
+    Merge branch 'main' of https://github.com/Grumlebob/ExamGDS
+
+commit d0fc10b8a7686daf6e5fe642bf77047957ff975c
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu May 1 12:46:01 2025 +0200
+
+    latest demo
+
+commit f70475c122a5a1f7123ed5b3b1bae8bf20db293c
+Author: Joakim Goyle Dissing <joakim@septima.dk>
+Date:   Thu May 1 11:55:27 2025 +0200
+
+    NTA data exploration
+
+commit cc8715bfd2991f5473d7d8f94fb537f058f32591
+Author: Joakim Goyle Dissing <joakim@septima.dk>
+Date:   Thu Apr 24 13:27:12 2025 +0200
+
+    added nta data
+
+commit 51d73804bbfcd6035aedb74901c6ff55f63d21ea
+Author: tcla <tcla@itu.dk>
+Date:   Thu Apr 24 12:23:22 2025 +0200
+
+    base kernel
+
+commit 5541e5c1fc96d2c426c07aad63065e703674c6ab
+Author: tcla <tcla@itu.dk>
+Date:   Thu Apr 24 12:23:04 2025 +0200
+
+    remove inspi
+
+commit f990801a49a8d95e930835c529bc2360f258bc5a
+Author: Joakim Goyle Dissing <jodi@itu.dk>
+Date:   Thu Apr 10 12:41:43 2025 +0200
+
+    OSRM amenities load working
+
+commit 2598b9ca7589a8f49c206425e276a824141513a0
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu Apr 3 13:48:49 2025 +0200
+
+    no caching
+
+commit bc7634d649129c5521fcbd1a6977f192ec3e422e
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu Apr 3 13:47:46 2025 +0200
+
+    data loaded, osmnx not working
+
+commit 2f1079e73a2714b9a2861b07197cd12b5d40d496
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu Apr 3 12:27:22 2025 +0200
+
+    use local file if exists
+
+commit cdce9f6017b5ba33e0de801ba40f56f2adc858e7
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu Apr 3 12:11:33 2025 +0200
+
+    add inspriration file
+
+commit 637924bd1b47636b1ff1f973957cf8da419a5093
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu Apr 3 12:11:20 2025 +0200
+
+    add gitignore
+
+commit 6c97483f5501c7c0f364f9b3b55910e1fa321278
+Author: Jacob Grum <jacg@itu.dk>
+Date:   Thu Apr 3 11:38:54 2025 +0200
+
+    first commit
